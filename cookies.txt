@@ -1,0 +1,11 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.w3.org	TRUE	/	FALSE	1999999999	__cf_bm	4mzcYuCrtgRCbOEsEwhJJkIIkGKE6haFnUpGYJMo3aU-1688099972-0-AQOq/u6lzTKjCKrPGEIIWi4D3gmNdkb/RbbCyvxYzpMmyU9eJ2UxyPxZWqYyooFzrNY6P2b3aUcqn8bhSKEhFTQ=
+www.w3.org	TRUE	/	FALSE	1999999999	SameSite	None
+status.joinclyde.com	TRUE	/	FALSE	1999999999	ypl1wfNMDN	br2o09fcfm1qb6kkbnb8eaanum
+status.joinclyde.com	TRUE	/	FALSE	1999999999	SameSite	none
+status.joinclyde.com	TRUE	/	FALSE	1999999999	psp_session	BGN0HxGFoEtI2qUhgPiUyBxD5eqGcV93N4NybyaY
+status.joinclyde.com	TRUE	/	FALSE	1999999999	samesite	none
+.twitter.com	TRUE	/	FALSE	1999999999	guest_id	v1%3A168810067092928558
+twitter.com	TRUE	/	FALSE	1999999999	SameSite	None
+

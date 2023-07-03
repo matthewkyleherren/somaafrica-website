@@ -1,0 +1,12 @@
+{
+  "short_name": "Clyde Admin",
+  "name": "Clyde Customer Admin",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff",
+  "icons": [
+    { "src": "/Clyde-Favicon.svg", "type": "image/svg+xml", "sizes": "70x70" },
+    { "src": "/Clyde-Favicon.ico", "type": "image/x-icon", "sizes": "32x32" }
+  ]
+}
